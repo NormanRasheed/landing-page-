@@ -50,6 +50,7 @@ h1 {
     color: #F9FAF8;
     font-weight: 900;
     padding-left: 20px;
+    margin-bottom: -8px;
 }
 .hero-secondary {
     font-size: 18px;
@@ -84,6 +85,7 @@ h2 {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+    padding-bottom: 50px;
 }
 
 .container-two {
@@ -130,6 +132,46 @@ h2 {
     margin-bottom: 20px;
 }
 
+.section-four {
+    margin: 48px;
+}
+.section-four-container {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex: 1 1 0%;
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 12px;
+}
+
+.action {
+    color: #F9FAF8;
+    font-size: 12px;
+    margin-bottom: -4px;
+}
+
+.info {
+    color: #F9FAF8;
+    font-size: 8px;
+}
+
+.calltoaction {
+    display: flex;
+    flex-direction: column;
+}
+.button-two {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    text-align: center;
+    border-radius: 4px;
+    border-color: #F9FAF8;
+    padding: 8px;
+    margin-left: 90px;
+}
 footer {
     display: flex;
     justify-content: center;
